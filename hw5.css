@@ -1,0 +1,107 @@
+/* Samuel Fisher
+CSE383 - Section C
+Dr. Johnson
+Homework 5
+October 2 2021
+*/
+body {
+    background-color:LightBlue;
+}
+
+#form1 {
+    text-align:center;
+}
+
+#row1 {
+    border-style:solid;
+    border-width:2px;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color:LightGoldenRodYellow;
+}
+
+#row2 {
+    border-style:solid;
+    border-width:2px;
+    background-color:LightGoldenRodYellow;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#row3 {
+    border-style:solid;
+    border-width:2px;
+    background-color:LightGoldenRodYellow;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#row4 {
+    border-style:solid;
+    border-width:2px;
+    background-color:LightGoldenRodYellow;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+
+#row1col1 {
+    border-right-style:solid;
+    border-right-width:2px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row1col2 {
+    border-right-style:solid;
+    border-right-width:2px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row1col3 {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row2col1 {
+    border-right-style:solid;
+    border-right-width:2px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row2col2 {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row3col1 {
+    border-right-style:solid;
+    border-right-width:2px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row3col2 {
+    border-right-style:solid;
+    border-right-width:2px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row3col3 {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row4col1 {
+    border-right-style:solid;
+    border-right-width:2px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#row4col2 {
+    padding-top:20px;
+    padding-bottom:20px;
+}
